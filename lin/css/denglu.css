@@ -1,0 +1,47 @@
+
+body{
+	font-family:Î¢ÈíÑÅºÚ;
+	background-color:#f9f9f9;
+   }
+.big{	
+	margin:15px auto;
+	width:850px;
+	height:450px;
+	background-color:#FFFFFF;
+	padding:1px 0 65px 0;
+  }
+.yi{
+	
+	font-size:30px;
+	color:#333333;
+	
+ }
+.er{         
+	
+	padding:45px 0 65px 0;
+ }
+.wenben{
+	font-family:Î¢ÈíÑÅºÚ;
+	width:321px; 
+	height:44px;
+	border:1px #e8e8e8 solid;
+ }
+.denglu{
+	border:none;
+	width:330px;
+	height:44px;
+	background-image:url(../pic/denglu.jpg);
+ }
+a:link ,a:visited{
+	text-decoration:none;
+	color:#757575;
+	font-size:15px;
+}
+a:hover{
+	color:#ff6700;
+}
+span{
+	font-size:13px;
+	color:#757575;
+}
+

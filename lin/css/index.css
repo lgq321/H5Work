@@ -1,0 +1,137 @@
+	*{margin:0;padding:0;}
+.top{
+	   width:1200px;
+	   height:175px;
+	   margin: 0 auto;
+	   position: relative;
+	   background: black;
+	 }
+#denglu{ 
+	   background:#000000;
+	   color:#989898;height:40px;
+	   font-family: 微软雅黑;
+	   font-size: 12px;
+	    }
+#denglu .shop li {
+	   float: left;
+	   padding: 10px;
+	   list-style: none;
+	             }
+#denglu .account li {
+	   float:right;
+	   padding:10px;
+	   list-style:none;
+	   }
+#logo .pic{
+	   width:220px;
+	   background:#FfFfFf;
+	   height: 80px;
+	   float:left;
+
+	
+	       }
+#logo .title{
+	   width:980px;
+	   background:#FfFfFf;
+	   height:80px;
+	   float:left;
+
+	        }
+.main{
+ 	width:1200px;
+ 	height:500px;
+ 	margin:0 auto;
+	  }
+.main .left{
+	width:220px;
+	height:500px;
+	text-align: center;
+	border-radius:15px 10px 10px 15px;
+	float: left; 
+	background-color:#282828;
+	font-family: 微软雅黑;
+
+}
+.main .banner{
+	width:980px;
+	height:500px;
+	float: left;
+}
+			 
+.left ul li{
+	text-align: left;
+	margin:2px auto;
+	font-size:14px;
+	height:46px;
+	line-height: 46px;
+	width:200px;
+	color: white;
+	list-style-type: none;
+}
+.top a{
+	text-decoration: none;
+	margin: 20px;
+	font-family: 微软雅黑;
+	 color:white;
+}
+.top a:hover{
+	color:white;
+    background: black;
+} 
+.top a:link{
+	padding: 5px 10
+	font-family: 微软雅黑 color:white;
+}
+#bottom {
+	width: 1200px;
+	margin: 0 auto;
+	background:white;
+	background: red;
+	text-align:center}
+
+	
+.copy{height: 150px;
+
+	 text-align:center
+	}
+	a:hover{text-decoration: none;}
+	#logo .pic a:hover{
+	text-decoration: none;
+	background:none;
+	}
+.shouhou ul{
+	height: 50px;
+	width: 1200px;
+	
+
+
+}
+.shouhou ul li{
+	font-family: 微软雅黑;
+	float: left;
+	list-style-type: none;
+	border: 1px white solid;
+	padding: 2px 69.5px;
+	line-height:90px ;
+	background: #F0F0F0;
+	width: 99px;
+	display: inline;
+}
+#help{
+	height:50px;
+	width: 1200px;
+	float: left;
+	background:white;
+}
+ #help ul {
+ 	height: 50px;
+ }
+ #help ul li{
+ 	float: left;
+ 	border-right:1px #D0D0D0 solid;
+ 	list-style-type: none;
+ 	font-family: 微软雅黑 ;color:#fff;
+ 	line-height: 50px;
+ 	background:black;
+	width:200px;
+ }

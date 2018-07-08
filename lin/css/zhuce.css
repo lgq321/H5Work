@@ -1,0 +1,75 @@
+body{
+	font-family:Î¢ÈíÑÅºÚ;
+	background-color:#f9f9f9;
+   }
+.big{	
+	margin:1px auto;
+	width:850px;
+	height:460px;
+	background-color:#FFFFFF;
+	padding:1px 0 65px 0;
+  }
+.yi{	
+	margin:5px;
+	font-size:30px;
+	color:#333333;
+	
+	
+ }
+.er{         
+	font-size:10px;
+	color:#9d9d9d;
+	padding:45px 0 65px 0;
+ }
+.wenben{
+	font-family:Î¢ÈíÑÅºÚ;
+	width:321px; 
+	height:38px;
+	border:1px #e8e8e8 solid;
+ }
+.zhuce{
+	font-family:Î¢ÈíÑÅºÚ;
+	width:215px; 
+	height:38px;
+	border:1px #e8e8e8 solid;
+ }
+.denglu{
+	border:none;
+	width:330px;
+	height:44px;
+	background-image:url(../pic/7.png)
+	
+ }
+a:link ,a:visited{
+	text-decoration:none;
+	color:#222222;
+	font-size:10px;
+	font-weight:bold;
+}
+a:hover{}
+
+span{
+	font-size:10px;
+	color:#757575;
+}
+.styled-select {
+    	 width: 41px;
+   	height: 41px;
+   	overflow: hidden;
+   	background: url(../pic/9.png) no-repeat right;
+}
+
+.style-select select {   
+	background:transparent;
+	width:325px;
+	height:40px;
+	appearance:none;
+  	-moz-appearance:none;
+  	-webkit-appearance:none;
+	padding:8px;
+	color:#555555;
+	font-family:ËÎÌå;
+	border:1px #e8e8e8 solid;
+	 
+}
+.code img{vertical-align:middle;}
